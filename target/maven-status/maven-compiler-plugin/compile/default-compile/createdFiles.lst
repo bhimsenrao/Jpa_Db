@@ -1,0 +1,5 @@
+com\jpa\Jpa_Db\StudentService.class
+com\jpa\Jpa_Db\JpaDbApplication.class
+com\jpa\Jpa_Db\StudentRepository.class
+com\jpa\Jpa_Db\StudentController.class
+com\jpa\Jpa_Db\Student.class

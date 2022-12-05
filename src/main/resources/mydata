@@ -1,0 +1,30 @@
+{  
+    "id": "001",  
+    "age": "23",  
+    "sname": "Amit",  
+    "email": "amit@yahoo.co.in"  
+}   
+{  
+    "id": "002",  
+    "age": "24",  
+    "sname": "Vadik",  
+    "email": "vadik@yahoo.co.in"  
+}   
+{  
+    "id": "003",  
+    "age": "21",  
+    "sname": "Prateek",  
+    "email": "prateek@yahoo.co.in"  
+}   
+{  
+    "id": "004",  
+    "age": "25",  
+    "sname": "Harsh",  
+    "email": "harsh@yahoo.co.in"  
+}   
+{  
+    "id": "005",  
+    "age": "24",  
+    "sname": "Swarit",  
+    "email": "Swarit@yahoo.co.in"  
+}   
